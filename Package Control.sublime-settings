@@ -6,9 +6,13 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"BracketHighlighter",
 		"ChineseLocalizations",
 		"ConvertToUTF8",
 		"CTags",
+		"DocBlockr",
+		"FileDiffs",
+		"Git",
 		"Package Control",
 		"SideBarEnhancements"
 	]
